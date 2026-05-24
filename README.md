@@ -21,9 +21,9 @@
 Клонировать проект:
 
 ```powershell
-git clone https://github.com/ТВОЙ_НИК/forest-rectangle-search.git
+git clone https://github.com/AlexandrZhukovLETI/forestDMITI.git
 
-cd forest-rectangle-search
+cd forestDMITI
 ```
 
 Создать виртуальное окружение:
@@ -57,9 +57,9 @@ python DMTI.py
 Клонировать проект:
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/forest-rectangle-search.git
+git clone https://github.com/AlexandrZhukovLETI/forestDMITI.git
 
-cd forest-rectangle-search
+cd forestDMITI
 ```
 
 Создать виртуальное окружение:
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 Запуск:
 
 ```bash
-python3 DMTI.py
+python3 main.py
 ```
 
 ---
